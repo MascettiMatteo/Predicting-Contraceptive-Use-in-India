@@ -95,15 +95,6 @@ Build a variable that explicitly flags the presence of coercive family-planning 
 
 R · `tidyverse` · `tidymodels` · `glmnet` · `mgcv` · `splines` · `ggplot2`
 
-## How to reproduce
-
-1. Clone the repository and place the data in `data/` (`training.csv`, `test.csv`).
-2. Update the file paths at the top of the script (`read.csv(...)`).
-3. Install the dependencies:
-   ```r
-   install.packages(c("tidyverse", "tidymodels", "glmnet", "mgcv", "ranger"))
-   ```
-4. Run `code/code_Mascetti_Matteo.R` from top to bottom.
 
 ## Repository structure
 
