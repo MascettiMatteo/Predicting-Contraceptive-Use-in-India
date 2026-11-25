@@ -40,7 +40,7 @@ About 18,000 Indian women, with the following variables:
 - Factor levels re-referenced to the most interpretable baselines (e.g. Hindu, rural, no children, peak fertility).
 
 **3. Data split**
-- 40% training / 30% validation / 30% test (`rsample::initial_validation_split`, seed 123).
+- 40% training / 30% validation / 30% test.
 
 **4. Variable selection**
 - AIC-based selection on logistic regression. Models with `state` have a much lower AIC than models with `region` (6,500 vs 6,860), so `region` is dropped from the final specification.
