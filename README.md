@@ -2,8 +2,7 @@
 
 Predictive modelling project (Data Mining course, MSc) on the socio-demographic drivers of contraceptive use among Indian women. The goal is twofold: build a model with good out-of-sample predictive performance and keep it interpretable enough to read the socio-cultural factors behind the prediction.
 
-📄 Full report (Italian): [`report/report_mascetti.pdf`](report/report_mascetti.pdf)
-💻 Code: [`code/code_Mascetti_Matteo.R`](code/code_Mascetti_Matteo.R)
+📄 Full report (Italian) & 💻 R Code: Available upon request.
 
 ---
 
@@ -128,4 +127,4 @@ R · `tidyverse` · `tidymodels` · `glmnet` · `mgcv` · `splines` · `ggplot2`
 
 ## Author
 
-**Matteo Mascetti** (894970)
+**Matteo Mascetti** (m.mascetti5@campus.unimib.it)
