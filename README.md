@@ -95,20 +95,6 @@ Build a variable that explicitly flags the presence of coercive family-planning 
 
 R · `tidyverse` · `tidymodels` · `glmnet` · `mgcv` · `splines` · `ggplot2`
 
-
-## Repository structure
-
-```
-.
-├── README.md
-├── code/
-│   └── code_Mascetti_Matteo.R
-├── report/
-│   └── report_mascetti.pdf
-├── figures/        # plots exported from the script (optional)
-└── data/           # not tracked
-```
-
 ## References
 
 1. Istituto Superiore di Sanità, *Linee guida 2024 PMA*.
